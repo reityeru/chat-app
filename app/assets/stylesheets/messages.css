@@ -111,34 +111,34 @@
 }
 
 
-.post_chat {
+.form {
+  background-color: #DDDDDD;
   height: 90px;
-  background-color: #dddddd;
   padding: 20px 40px;
   display: flex;
 }
 
-.type_message {
+.form-input {
   background-color: white;
-  width: 100%;
   display: flex;
+  width: 100%;
 }
 
-.form_message {
+.form-message {
   border: none;
   height: 50px;
   width: 100%;
-  padding: 0 0 0 10px;
+  padding-left: 10px;
 }
 
 .form-submit {
-  height: 50px;
-  font-size: 16px;
-  color: white;
-  background-color: #38aef0;
-  padding: 0 20px;
+  background-color: #38AEF0;
   border: none;
+  color: white;
+  font-size: 16px;
+  height: 50px;
   margin-left: 15px;
+  padding: 0 20px;
 }
 
 .form-image {
